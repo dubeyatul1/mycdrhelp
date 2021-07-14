@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /rplforacs.com/
+Sitemap: https://www.mycdrhelp.com/sitemap.xml
